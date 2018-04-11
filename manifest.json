@@ -1,0 +1,7 @@
+{
+"runtime": {
+"majorVersion": "8"
+},
+"command": "java -jar wiremock-standalone-2.12.0.jar",
+"notes": "Mock Service"
+}
